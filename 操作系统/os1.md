@@ -4,7 +4,7 @@
 >
 > PPT 四川大学 杜中军老师
 >
-> find more on github.com/textGuan/Review
+> Find more on github.com/textGuan/Review
 
 # 一 操作系统引论
 
